@@ -1,1 +1,1 @@
-# bitmex_stuck_bot
+# bitmex_stock_bot
